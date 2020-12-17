@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+The name is Julius Cool
+
 <!--
 **juliuscool/juliuscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
